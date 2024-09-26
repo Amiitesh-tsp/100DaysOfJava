@@ -17,5 +17,5 @@ In case you want my LinkedIn: https://www.linkedin.com/in/amiitesh-pradeep-kumar
 | 04  | Using JOptionPane to create GUI|
 
 # My LinkedIn
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/amiitesh-pradeep-kumar-582bb831a/)
+[![LinkedIn](linkedin.svg)](https://www.linkedin.com/in/amiitesh-pradeep-kumar-582bb831a/)
 
