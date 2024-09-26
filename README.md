@@ -4,9 +4,9 @@ I'll be uploading all the java programs I post on LinkedIn here for your referen
 In case you want my LinkedIn: https://www.linkedin.com/in/amiitesh-pradeep-kumar-582bb831a/
 
 # 📅 Challenge Structure
-**Duration**: 100 Days\
-**Goal**: Upload a Java program or code snippet each day\
-**Topics**: Varying topics ranging from basic concepts to advanced features
+- **Duration**: 100 Days\
+- **Goal**: Upload a Java program or code snippet each day\
+- **Topics**: Varying topics ranging from basic concepts to advanced features
 
 # 📚 Topics Covered
 | Day | Topic                        |
