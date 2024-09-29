@@ -17,6 +17,7 @@ In case if you want my LinkedIn it's below this readme
 | 04  | Using JOptionPane to create GUI|
 | 05  | Creating a if-else conditional statement|
 | 06  | Using switch case in Java to display grades |
+| 07  | Using Logical operators to quit a game  |
 # My Socials
 [![LinkedIn](linkedin.svg)](https://www.linkedin.com/in/amiitesh-pradeep-kumar-582bb831a/)
 [![Instagram](instagram.png)](https://www.instagram.com/tspamiitesh/)
