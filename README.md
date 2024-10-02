@@ -19,6 +19,7 @@ In case if you want my LinkedIn it's below this readme
 | 06  | Using switch case in Java to display grades |
 | 07  | Using Logical operators to quit a game  |
 | 08  | Using while loop and do-while loop in Java  |
+| 09  | Using nested loops to print patterns  |
 # My Socials
 [![LinkedIn](linkedin.svg)](https://www.linkedin.com/in/amiitesh-pradeep-kumar-582bb831a/)
 [![Instagram](instagram.png)](https://www.instagram.com/tspamiitesh/)
