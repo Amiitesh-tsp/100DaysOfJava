@@ -21,6 +21,7 @@ In case if you want my LinkedIn it's below this readme
 | 08  | Using while loop and do-while loop in Java  |
 | 09  | Using nested loops to print patterns  |
 | 10  | Creating arrays in Java and output the elements of the array |
+| 11  | Using 2D arrays in Java and outputting its elements of the array |
 # My Socials
 [![LinkedIn](linkedin.svg)](https://www.linkedin.com/in/amiitesh-pradeep-kumar-582bb831a/)
 [![Instagram](instagram.png)](https://www.instagram.com/tspamiitesh/)
