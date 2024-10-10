@@ -22,6 +22,10 @@ In case if you want my LinkedIn it's below this readme
 | 09  | Using nested loops to print patterns  |
 | 10  | Creating arrays in Java and output the elements of the array |
 | 11  | Using 2D arrays in Java and outputting its elements of the array |
+| 12  | Using different methods for string in Java |
+| 13  | Creating array list by importing the array list class from Java util |
+| 14  | Creating a 2D array list in Java  |
+| 15  | Creating and using overloaded methods in Java  |
 # My Socials
 [![LinkedIn](linkedin.svg)](https://www.linkedin.com/in/amiitesh-pradeep-kumar-582bb831a/)
 [![Instagram](instagram.png)](https://www.instagram.com/tspamiitesh/)
