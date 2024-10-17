@@ -4,8 +4,8 @@ I'll be uploading all the java programs I post on LinkedIn here for your referen
 In case if you want my LinkedIn it's below this readme
 
 # 📅 Challenge Structure
-- **Duration**: 100 Days\
-- **Goal**: Upload a Java program or code snippet each day\
+- **Duration**: 100 Days
+- **Goal**: Upload a Java program or code snippet each day
 - **Topics**: Varying topics ranging from basic concepts to advanced features
 
 # 📚 Topics Covered
