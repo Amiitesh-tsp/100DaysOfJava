@@ -29,6 +29,8 @@ In case if you want my LinkedIn it's below this readme
 | 16  | Using the keyword "final" in Java  |
 | 17  | Learning OOP in Java  |
 | 18  | Using Constructors in Java  |
+| 19  | Fibonacci series in Java  |
+| 20  | Prime number program in Java  |
 # My Socials
 [![LinkedIn](linkedin.svg)](https://www.linkedin.com/in/amiitesh-pradeep-kumar-582bb831a/)
 [![Instagram](instagram.png)](https://www.instagram.com/tspamiitesh/)
