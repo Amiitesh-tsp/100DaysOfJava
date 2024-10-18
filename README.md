@@ -31,6 +31,7 @@ In case if you want my LinkedIn it's below this readme
 | 18  | Using Constructors in Java  |
 | 19  | Fibonacci series in Java  |
 | 20  | Prime number program in Java  |
+| 21  | Palindrome program in Java  |
 # My Socials
 [![LinkedIn](linkedin.svg)](https://www.linkedin.com/in/amiitesh-pradeep-kumar-582bb831a/)
 [![Instagram](instagram.png)](https://www.instagram.com/tspamiitesh/)
