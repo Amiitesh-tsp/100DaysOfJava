@@ -34,6 +34,7 @@ In case if you want my LinkedIn it's below this readme
 | 21  | Palindrome program in Java  |
 | 22  | Factorial program in Java  |
 | 23  | Armstrong number program in Java  |
+| 24  | Creating a Simple HTTP server in Java  |
 # My Socials
 [![LinkedIn](linkedin.svg)](https://www.linkedin.com/in/amiitesh-pradeep-kumar-582bb831a/)
 [![Instagram](instagram.png)](https://www.instagram.com/tspamiitesh/)
